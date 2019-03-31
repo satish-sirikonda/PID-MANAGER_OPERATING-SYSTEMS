@@ -1,0 +1,2 @@
+# PID-MANAGER_OPERATING-SYSTEMS
+11702963-B45-OS-PID-manager Programming Exercise 3.20 required you to design a PID manager that allocated a unique process identiﬁer to each process. Exercise 4.20 required you to modify your solution to Exercise 3.20 by writing a program that created a number of threads that requested and released process identiﬁers. Now modify your solution to Exercise 4.20 by ensuring that the data structure used to represent the availability of process identiﬁers is safe from race conditions. Use Pthreads mutex locks.
